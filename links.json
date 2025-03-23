@@ -1,0 +1,43 @@
+[
+    {
+        "title": "Entwicklung & Programmierung",
+        "links": [
+            { "name": "GitHub", "url": "https://github.com" },
+            { "name": "Stack Overflow", "url": "https://stackoverflow.com" },
+            { "name": "MDN Web Docs", "url": "https://developer.mozilla.org" },
+            { "name": "Regex101", "url": "https://regex101.com" },
+            { "name": "Go Packages", "url": "https://pkg.go.dev" },
+            { "name": "Java Documentation", "url": "https://docs.oracle.com/en/java/javase/17/docs/" },
+            { "name": "Maven Repository", "url": "https://mvnrepository.com" },
+            { "name": "C# Documentation", "url": "https://learn.microsoft.com/en-us/dotnet/csharp/" }
+        ]
+    },
+    {
+        "title": "Technologie & Nachrichten",
+        "links": [
+            { "name": "Heise", "url": "https://heise.de" },
+            { "name": "Golem", "url": "https://golem.de" },
+            { "name": "Hacker News", "url": "https://news.ycombinator.com" },
+            { "name": "Fefes Blog", "url": "https://blog.fefe.de/" }
+        ]
+    },
+    {
+        "title": "Fun",
+        "links": [
+            { "name": "XKCD", "url": "https://xkcd.com" },
+            { "name": "The Daily WTF", "url": "https://thedailywtf.com" },
+            { "name": "Project Euler", "url": "https://projecteuler.net" },
+            { "name": "Advent of Code", "url": "https://adventofcode.com" }
+        ]
+    },
+    {
+        "title": "Shopping",
+        "links": [
+            { "name": "Amazon", "url": "https://amazon.de" },
+            { "name": "Ebay", "url": "https://ebay.de" },
+            { "name": "Kleinanzeigen", "url": "https://kleinanzeigen.de" },
+            { "name": "Idealo", "url": "https://idealo.de" },
+            { "name": "MyDealz", "url": "https://mydealz.de" }
+        ]
+    }
+]
